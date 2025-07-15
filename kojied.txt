@@ -1,0 +1,2 @@
+[COMMENT] I think it's a good idea to have some sort of indicator for the rarity of items in the store. Maybe add a star system or something similar to indicate how rare an item is. This would help players make more informed decisions about what they buy and potentially encourage them to save up for those really special/rare items.
+[Source] https://www.reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/
